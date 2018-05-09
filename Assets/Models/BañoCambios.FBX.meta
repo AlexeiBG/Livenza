@@ -1,0 +1,208 @@
+fileFormatVersion: 2
+guid: 3244493cee7869e4cb6d2e361f802e5b
+timeCreated: 1500329377
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Box051
+    100004: Box054
+    100006: Box056
+    100008: Box062
+    100010: Box063
+    100012: Box064
+    100014: Circle001
+    100016: Lavabo
+    100018: Lavabo002
+    100020: Lavabo01
+    100022: Lavabo2
+    100024: Line006
+    100026: Line007
+    100028: Line010
+    100030: metal
+    100032: metal001
+    100034: Monomando
+    100036: Regadera
+    100038: WC
+    100040: farfor
+    100042: Line011
+    100044: Line013
+    400000: //RootNode
+    400002: Box051
+    400004: Box054
+    400006: Box056
+    400008: Box062
+    400010: Box063
+    400012: Box064
+    400014: Circle001
+    400016: Lavabo
+    400018: Lavabo002
+    400020: Lavabo01
+    400022: Lavabo2
+    400024: Line006
+    400026: Line007
+    400028: Line010
+    400030: metal
+    400032: metal001
+    400034: Monomando
+    400036: Regadera
+    400038: WC
+    400040: farfor
+    400042: Line011
+    400044: Line013
+    2300000: Box051
+    2300002: Box054
+    2300004: Box056
+    2300006: Box062
+    2300008: Box063
+    2300010: Box064
+    2300012: Circle001
+    2300014: Lavabo
+    2300016: Lavabo002
+    2300018: Line006
+    2300020: Line007
+    2300022: Line010
+    2300024: metal
+    2300026: metal001
+    2300028: Monomando
+    2300030: Regadera
+    2300032: farfor
+    2300034: Line011
+    2300036: Line013
+    3300000: Box051
+    3300002: Box054
+    3300004: Box056
+    3300006: Box062
+    3300008: Box063
+    3300010: Box064
+    3300012: Circle001
+    3300014: Lavabo
+    3300016: Lavabo002
+    3300018: Line006
+    3300020: Line007
+    3300022: Line010
+    3300024: metal
+    3300026: metal001
+    3300028: Monomando
+    3300030: Regadera
+    3300032: farfor
+    3300034: Line011
+    3300036: Line013
+    4300000: Box056
+    4300002: Lavabo002
+    4300004: Box062
+    4300006: Box063
+    4300008: metal001
+    4300010: Line006
+    4300012: Line007
+    4300014: Box054
+    4300016: Box051
+    4300018: metal
+    4300020: Lavabo
+    4300022: Line010
+    4300024: Circle001
+    4300026: Box064
+    4300028: Monomando
+    4300030: Regadera
+    4300032: farfor
+    4300034: Line011
+    4300036: Line013
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #50'
+    second: {fileID: 2100000, guid: 1472deb2365537044bbc9dab7b5f6881, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 3b45ee6da22c27f4cb2358a5c624e885, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Seat01DinningRoom
+    second: {fileID: 2100000, guid: 8f8a94190a3c62b45beda1f29f410bc8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m#1
+    second: {fileID: 2100000, guid: 3dd968eb472150a499d121445293cb24, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

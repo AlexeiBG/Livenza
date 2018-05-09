@@ -1,0 +1,315 @@
+fileFormatVersion: 2
+guid: 16495d8521722044e8efc6a8ccbe02ed
+timeCreated: 1521222482
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: arq_cristales
+    100004: arq_cristales 1
+    100006: arq_guardaropa
+    100008: arq_hilera003
+    100010: arq_hilera2
+    100012: arq_hileratabique
+    100014: arq_manijas
+    100016: arq_muros
+    100018: arq_pasamanos
+    100020: arq_pasto
+    100022: arq_piso interior
+    100024: arq_pisopatio
+    100026: arq_plafones
+    100028: arq_puertagarage
+    100030: arq_puertaherreria
+    100032: arq_puertas
+    100034: arq_ventanas
+    100036: arq_ventanas 1
+    100038: Layer:AE-Esc
+    100040: mt_marcopuertas
+    100042: Box001
+    100044: Cylinder017
+    400000: //RootNode
+    400002: arq_cristales
+    400004: arq_cristales 1
+    400006: arq_guardaropa
+    400008: arq_hilera003
+    400010: arq_hilera2
+    400012: arq_hileratabique
+    400014: arq_manijas
+    400016: arq_muros
+    400018: arq_pasamanos
+    400020: arq_pasto
+    400022: arq_piso interior
+    400024: arq_pisopatio
+    400026: arq_plafones
+    400028: arq_puertagarage
+    400030: arq_puertaherreria
+    400032: arq_puertas
+    400034: arq_ventanas
+    400036: arq_ventanas 1
+    400038: Layer:AE-Esc
+    400040: mt_marcopuertas
+    400042: Box001
+    400044: Cylinder017
+    2300000: arq_cristales 1
+    2300002: arq_guardaropa
+    2300004: arq_hilera003
+    2300006: arq_hilera2
+    2300008: arq_manijas
+    2300010: arq_muros
+    2300012: arq_pasamanos
+    2300014: arq_pasto
+    2300016: arq_piso interior
+    2300018: arq_pisopatio
+    2300020: arq_plafones
+    2300022: arq_puertagarage
+    2300024: arq_puertaherreria
+    2300026: arq_puertas
+    2300028: arq_ventanas 1
+    2300030: mt_marcopuertas
+    2300032: Box001
+    2300034: Cylinder017
+    3300000: arq_cristales 1
+    3300002: arq_guardaropa
+    3300004: arq_hilera003
+    3300006: arq_hilera2
+    3300008: arq_manijas
+    3300010: arq_muros
+    3300012: arq_pasamanos
+    3300014: arq_pasto
+    3300016: arq_piso interior
+    3300018: arq_pisopatio
+    3300020: arq_plafones
+    3300022: arq_puertagarage
+    3300024: arq_puertaherreria
+    3300026: arq_puertas
+    3300028: arq_ventanas 1
+    3300030: mt_marcopuertas
+    3300032: Box001
+    3300034: Cylinder017
+    4300000: arq_muros
+    4300002: arq_plafones
+    4300004: arq_puertaherreria
+    4300006: arq_pasto
+    4300008: arq_piso interior
+    4300010: arq_pisopatio
+    4300012: arq_puertagarage
+    4300014: arq_pasamanos
+    4300016: arq_hilera2
+    4300018: arq_hilera003
+    4300020: arq_ventanas
+    4300022: arq_cristales
+    4300024: mt_marcopuertas
+    4300026: arq_puertas
+    4300028: arq_manijas
+    4300030: arq_guardaropa
+    4300032: Box001
+    4300034: Cylinder017
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 3b45ee6da22c27f4cb2358a5c624e885, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mt_aluminioblanco
+    second: {fileID: 2100000, guid: 0645371b1d0b1124cba866ef73285d0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mt_aplanadointerior
+    second: {fileID: 2100000, guid: 3201151a64d7e724e8db8ab5731a1e95, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mt_azulejo18x50
+    second: {fileID: 2100000, guid: f3771ba52632d514aa58327b76a10abf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mt_azulejomadera
+    second: {fileID: 2100000, guid: 9dbca99c8a854a648ba97ec3dbf6c460, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mt_banqueta
+    second: {fileID: 2100000, guid: 69f52f12b4ba3974d9befdcf692f912c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mt_cristales
+    second: {fileID: 2100000, guid: bedb51af3cacced48b86b188cb063c54, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mt_hileratabique
+    second: {fileID: 2100000, guid: 9a865cdd8728b7a4b82ae20772122ada, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mt_impermeabilizante
+    second: {fileID: 2100000, guid: f2cc3cc1857cff940a91ef3fbb426c7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mt_lambrin
+    second: {fileID: 2100000, guid: 65e36f0af79c0eb4db2657d78ac39116, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mt_lampara
+    second: {fileID: 2100000, guid: 32695e19cb78f624f9f7b377a4a448ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mt_lechobajo
+    second: {fileID: 2100000, guid: b047b865a4b3ea2408e7556c8ffd6f68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mt_lechobajoescalera
+    second: {fileID: 2100000, guid: 581894c11b236344d8f21a68df0ba779, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mt_luminaria
+    second: {fileID: 2100000, guid: 65f51906ce9f4cc4e93d85c91fc4ea25, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mt_madera
+    second: {fileID: 2100000, guid: 219481d0564893547b63d0639cd1a66e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mt_maderacloset
+    second: {fileID: 2100000, guid: 67bb2ce2c4e0fbd4fb507221aa127d1f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mt_manijas
+    second: {fileID: 2100000, guid: 16d8a67515dee5a4398e5bfb902dd1f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mt_pasamanos
+    second: {fileID: 2100000, guid: 297f3f0bdefb98e4d9d868b353881c03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mt_pasto
+    second: {fileID: 2100000, guid: 736eeaa3032d3744ead45f63d0c04a26, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mt_piso20x20
+    second: {fileID: 2100000, guid: 65e36f0af79c0eb4db2657d78ac39116, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mt_piso60x60
+    second: {fileID: 2100000, guid: 65e36f0af79c0eb4db2657d78ac39116, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mt_porcelanitemirella
+    second: {fileID: 2100000, guid: c76ef920f7998d34ebf24b879cadcc9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mt_puertacochera
+    second: {fileID: 2100000, guid: 1fb2db5e385cb584c8fb388b1a4bec36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mt_puertaherreria
+    second: {fileID: 2100000, guid: a3ee06e5f2b2a0c43929acccb71906e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mt_repelladoexterior
+    second: {fileID: 2100000, guid: f2cc3cc1857cff940a91ef3fbb426c7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mt_ventanas
+    second: {fileID: 2100000, guid: 676cbd6e4d7568448b77f66ebb0abd65, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

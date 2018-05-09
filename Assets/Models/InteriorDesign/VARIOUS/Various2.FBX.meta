@@ -1,0 +1,470 @@
+fileFormatVersion: 2
+guid: 484e04b773beba94a944be94ef151851
+timeCreated: 1522700729
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: AI37_009_obj_72
+    100002: AI37_009_obj_79
+    100004: AI37_009_obj_80
+    100006: AI37_009_obj_80_MeshPart0
+    100008: AI37_009_obj_80_MeshPart1
+    100010: AI37_010_globe_001
+    100012: AI37_010_globe_002
+    100014: AI37_010_globe_01
+    100016: AI37_010_painting_003
+    100018: AI37_010_painting_005
+    100020: AI37_010_painting_008
+    100022: AI37_010_painting_01
+    100024: AI37_010_painting_02
+    100026: AI37_010_painting_03
+    100028: AI37_010_painting_04
+    100030: AI37_010_painting_067
+    100032: AI37_010_painting_071
+    100034: AI37_010_painting_087
+    100036: AI37_010_paintings_01
+    100038: breakfast_set
+    100040: breakfast_set_MeshPart0
+    100042: breakfast_set_MeshPart1
+    100044: Component#1_001
+    100046: Component#2_001
+    100048: Component#5_001
+    100050: Component#6_001
+    100052: Component#7_001
+    100054: Component#7_002
+    100056: Component#8_001
+    100058: Cuadro 021
+    100060: Cuadro 022
+    100062: Cuadro 023
+    100064: Cuadro 024
+    100066: cuadro marco014
+    100068: cuadro marco015
+    100070: cuadro marco016
+    100072: cuadro marco017
+    100074: muchos
+    100076: Object029
+    100078: Object142
+    100080: Object972
+    100082: odesd2_B1
+    100084: //RootNode
+    400000: AI37_009_obj_72
+    400002: AI37_009_obj_79
+    400004: AI37_009_obj_80
+    400006: AI37_009_obj_80_MeshPart0
+    400008: AI37_009_obj_80_MeshPart1
+    400010: AI37_010_globe_001
+    400012: AI37_010_globe_002
+    400014: AI37_010_globe_01
+    400016: AI37_010_painting_003
+    400018: AI37_010_painting_005
+    400020: AI37_010_painting_008
+    400022: AI37_010_painting_01
+    400024: AI37_010_painting_02
+    400026: AI37_010_painting_03
+    400028: AI37_010_painting_04
+    400030: AI37_010_painting_067
+    400032: AI37_010_painting_071
+    400034: AI37_010_painting_087
+    400036: AI37_010_paintings_01
+    400038: breakfast_set
+    400040: breakfast_set_MeshPart0
+    400042: breakfast_set_MeshPart1
+    400044: Component#1_001
+    400046: Component#2_001
+    400048: Component#5_001
+    400050: Component#6_001
+    400052: Component#7_001
+    400054: Component#7_002
+    400056: Component#8_001
+    400058: Cuadro 021
+    400060: Cuadro 022
+    400062: Cuadro 023
+    400064: Cuadro 024
+    400066: cuadro marco014
+    400068: cuadro marco015
+    400070: cuadro marco016
+    400072: cuadro marco017
+    400074: muchos
+    400076: Object029
+    400078: Object142
+    400080: Object972
+    400082: odesd2_B1
+    400084: //RootNode
+    2300000: AI37_009_obj_72
+    2300002: AI37_009_obj_79
+    2300004: AI37_009_obj_80_MeshPart0
+    2300006: AI37_009_obj_80_MeshPart1
+    2300008: AI37_010_globe_001
+    2300010: AI37_010_globe_002
+    2300012: AI37_010_painting_003
+    2300014: AI37_010_painting_005
+    2300016: AI37_010_painting_008
+    2300018: AI37_010_painting_067
+    2300020: AI37_010_painting_071
+    2300022: AI37_010_painting_087
+    2300024: breakfast_set_MeshPart0
+    2300026: breakfast_set_MeshPart1
+    2300028: Component#1_001
+    2300030: Component#2_001
+    2300032: Component#5_001
+    2300034: Component#6_001
+    2300036: Component#7_001
+    2300038: Component#7_002
+    2300040: Component#8_001
+    2300042: Cuadro 021
+    2300044: Cuadro 022
+    2300046: Cuadro 023
+    2300048: Cuadro 024
+    2300050: cuadro marco014
+    2300052: cuadro marco015
+    2300054: cuadro marco016
+    2300056: cuadro marco017
+    2300058: Object029
+    2300060: Object142
+    2300062: Object972
+    2300064: odesd2_B1
+    3300000: AI37_009_obj_72
+    3300002: AI37_009_obj_79
+    3300004: AI37_009_obj_80_MeshPart0
+    3300006: AI37_009_obj_80_MeshPart1
+    3300008: AI37_010_globe_001
+    3300010: AI37_010_globe_002
+    3300012: AI37_010_painting_003
+    3300014: AI37_010_painting_005
+    3300016: AI37_010_painting_008
+    3300018: AI37_010_painting_067
+    3300020: AI37_010_painting_071
+    3300022: AI37_010_painting_087
+    3300024: breakfast_set_MeshPart0
+    3300026: breakfast_set_MeshPart1
+    3300028: Component#1_001
+    3300030: Component#2_001
+    3300032: Component#5_001
+    3300034: Component#6_001
+    3300036: Component#7_001
+    3300038: Component#7_002
+    3300040: Component#8_001
+    3300042: Cuadro 021
+    3300044: Cuadro 022
+    3300046: Cuadro 023
+    3300048: Cuadro 024
+    3300050: cuadro marco014
+    3300052: cuadro marco015
+    3300054: cuadro marco016
+    3300056: cuadro marco017
+    3300058: Object029
+    3300060: Object142
+    3300062: Object972
+    3300064: odesd2_B1
+    4300000: Object029
+    4300002: Object142
+    4300004: cuadro marco017
+    4300006: cuadro marco016
+    4300008: Cuadro 024
+    4300010: cuadro marco015
+    4300012: Cuadro 023
+    4300014: cuadro marco014
+    4300016: Cuadro 022
+    4300018: Cuadro 021
+    4300020: AI37_010_globe_002
+    4300022: AI37_010_globe_001
+    4300024: AI37_010_painting_005
+    4300026: AI37_010_painting_008
+    4300028: AI37_010_painting_087
+    4300030: AI37_010_painting_071
+    4300032: AI37_010_painting_003
+    4300034: AI37_010_painting_067
+    4300036: AI37_009_obj_72
+    4300038: AI37_009_obj_80_MeshPart0
+    4300040: AI37_009_obj_80_MeshPart1
+    4300042: AI37_009_obj_79
+    4300044: odesd2_B1
+    4300046: breakfast_set_MeshPart0
+    4300048: breakfast_set_MeshPart1
+    4300050: Component#7_002
+    4300052: Component#5_001
+    4300054: Component#7_001
+    4300056: Component#2_001
+    4300058: Component#8_001
+    4300060: Component#6_001
+    4300062: Component#1_001
+    4300064: Object972
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lacquer_White_Shine
+    second: {fileID: 2100000, guid: 40349766a48ec154c8d54844dd2127a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #328932917'
+    second: {fileID: 2100000, guid: a28493ba14244594e8ea0a131334c21e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #328932926'
+    second: {fileID: 2100000, guid: e02496e6149e8a1429a2f66a004bbcb8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #328932927'
+    second: {fileID: 2100000, guid: 1acbabe5e09d5294c82ad19103cb1e82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #328932930'
+    second: {fileID: 2100000, guid: 9c0d74c1c730aa44fb4a67d69f1b1a9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #396767090'
+    second: {fileID: 2100000, guid: 1531a71223217404f970965773242471, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #396767091'
+    second: {fileID: 2100000, guid: 8c04e4a1ef0159f48a4fd0d4574171b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #396767092'
+    second: {fileID: 2100000, guid: 821536e35494ca6429689071ad92da91, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #396767094'
+    second: {fileID: 2100000, guid: dc1924f40da7354478b2fa4c275c35b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #48'
+    second: {fileID: 2100000, guid: 73a4c6c930040534c9b1a8d7f3b497a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #74'
+    second: {fileID: 2100000, guid: dd5e8ff3f9fd32146baf5a10c002ef04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material1
+    second: {fileID: 2100000, guid: c8e9dcceb6b105045b703275dc9797cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material3
+    second: {fileID: 2100000, guid: c8e9dcceb6b105045b703275dc9797cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stainless_Steel
+    second: {fileID: 2100000, guid: cf121838b961de74bad810971a07d943, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood
+    second: {fileID: 2100000, guid: d696f1dc6d208a14385cf55afd4a8966, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: acuarela
+    second: {fileID: 2100000, guid: 20ca07463a90ed84a9daae10e05c4985, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: breakfast_set_mtl_1
+    second: {fileID: 2100000, guid: 7695b65ed4cb6d249912d4734ddd8ccf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: breakfast_set_mtl_10
+    second: {fileID: 2100000, guid: 99e3189ab3360fd44a8189d8cead0169, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: breakfast_set_mtl_11
+    second: {fileID: 2100000, guid: 5369f7b5846398445b96651e222943c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: breakfast_set_mtl_12
+    second: {fileID: 2100000, guid: 6679f86f4164b134a8f2253644381281, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: breakfast_set_mtl_2
+    second: {fileID: 2100000, guid: 22b54eca2b1fc24439ac99c96fbe5d84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: breakfast_set_mtl_3
+    second: {fileID: 2100000, guid: 7577a8a1f312e704298b626d198f7857, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: breakfast_set_mtl_4
+    second: {fileID: 2100000, guid: 3ff1896f2a21b3f43a37952d7705bc3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: breakfast_set_mtl_5
+    second: {fileID: 2100000, guid: 7b5f33eb80328c84b82f7dd2d1c80224, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: breakfast_set_mtl_6
+    second: {fileID: 2100000, guid: 055100479c27dc248b33c4ad6b1b18a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: breakfast_set_mtl_7
+    second: {fileID: 2100000, guid: 4a35017235f412f48a69a934378abc47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: breakfast_set_mtl_8
+    second: {fileID: 2100000, guid: 90f3cf479cca2ff44b2add6c9fad1091, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: breakfast_set_mtl_9
+    second: {fileID: 2100000, guid: 73ea0ea8f06be784784edfaffe6c25cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: capuchino
+    second: {fileID: 2100000, guid: 894b797757b04f54c9a7a1a87263e97b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: foto aves
+    second: {fileID: 2100000, guid: 29e1f31315d1d764589a8b3bfb9930a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hojas
+    second: {fileID: 2100000, guid: 4eaeb1ead54e633478a693f2adc2c85b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jarron
+    second: {fileID: 2100000, guid: ff8fd45179d556e4b95ca2ee9f8d13ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: madera veta ojo
+    second: {fileID: 2100000, guid: 0b671b27e0524424aa29ef08955946b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mundo
+    second: {fileID: 2100000, guid: c06118838c311ab44bd473ad402f00ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: odesd2_B1_mtl_1
+    second: {fileID: 2100000, guid: 037291792d29f2e4794d23f4211ab6d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: odesd2_B1_mtl_2
+    second: {fileID: 2100000, guid: 5d36e82092af73a42985da2465bc662b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: petalo 2
+    second: {fileID: 2100000, guid: 86f1b8e42a430f14e92c7a9a1c4a18cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tela
+    second: {fileID: 2100000, guid: 212b7424a1d93e84aa3ce07035938d75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tv
+    second: {fileID: 2100000, guid: 8449ce302cb4b9646ad466c2dc1f8b5b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood
+    second: {fileID: 2100000, guid: ec1897a6c12ef1845a1e2229cdf32f7c, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

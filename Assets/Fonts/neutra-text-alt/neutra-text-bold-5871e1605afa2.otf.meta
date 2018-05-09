@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 50b7e7ed71bf04834a88f989fabac5f6
+timeCreated: 1505247166
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Neutra Text
+  fontNames:
+  - Neutra Text
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 141fb82bffc64465fbb9cb6003065194, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
